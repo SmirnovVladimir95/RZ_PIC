@@ -1,9 +1,8 @@
 #!/usr/bin/env python2
 # -*- coding: utf-8 -*-
 """
-Created on Wed May  8 18:03:41 2019
-
-@author: vladimirsmirnov
+This file is a test of full-scale multiparticle 
+        calculation of Penning discharge process
 """
 
 import numpy as np
