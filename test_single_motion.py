@@ -1,9 +1,7 @@
 #!/usr/bin/env python2
 # -*- coding: utf-8 -*-
 """
-Created on Tue Jun  4 16:11:14 2019
-
-@author: vladimirsmirnov
+test of single particle motion in electromagnetic field
 """
 
 import numpy as np
